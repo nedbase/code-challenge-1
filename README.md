@@ -18,5 +18,8 @@ Voorbeeld: het getal *1324* komt er dan ongeveer als volgt uit te zien:
 - Gebouwd in een Docker omgeving
 - Voorzien van unit -of behaviour tests
 
+## Wijze van inleveren
+Je uitwerking kan je indienen door middel van een pull request.
+
 ## Relevante links:
 - https://en.wikipedia.org/wiki/Seven-segment_display
