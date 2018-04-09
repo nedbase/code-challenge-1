@@ -19,7 +19,7 @@ Voorbeeld: het getal *1324* komt er dan ongeveer als volgt uit te zien:
 - Voorzien van unit -of behaviour tests
 
 ## Wijze van inleveren
-Je uitwerking kan je indienen door middel van een pull request.
+Maak een aparte (prive) repositoy en stuur ons per mail de gegevens om te code in te zien.
 
 ## Relevante links:
 - https://en.wikipedia.org/wiki/Seven-segment_display
